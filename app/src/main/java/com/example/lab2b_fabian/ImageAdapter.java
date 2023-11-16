@@ -19,6 +19,18 @@ public class ImageAdapter extends BaseAdapter {
             R.drawable.pic07,
             R.drawable.pic08,
             R.drawable.pic09,
+            R.drawable.pic10,
+            R.drawable.pic11,
+            R.drawable.pic12,
+            R.drawable.pic13,
+            R.drawable.pic14,
+            R.drawable.pic15,
+            R.drawable.pic16,
+            R.drawable.pic17,
+            R.drawable.pic18,
+            R.drawable.pic19,
+            R.drawable.pic20,
+            R.drawable.pic21,
     };
 
     public ImageAdapter(Context c){mContext = c;}
